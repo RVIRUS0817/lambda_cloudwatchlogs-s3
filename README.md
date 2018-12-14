@@ -6,15 +6,17 @@
 ## Requirement
 - Synchronize the log that causes RDS general-log, slowquery-log to be read by cloudwatch logs to s3
 
-## RDS/logs
+## How to use
+
+### RDS/logs
 
 - Check all logs to reflect on cloudwatch logs.
 
-## AWS/roles
+### AWS/roles
 
 cloudwatchlogs Full Access  
 
-## S3 policy
+### S3 policy
 
 ```
 {
@@ -45,7 +47,7 @@ cloudwatchlogs Full Access
 }
 ```
 
-## Lambda
+### Lambda
 
 Python 2.7
 
