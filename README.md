@@ -51,6 +51,12 @@ cloudwatchlogs Full Access
 
 Python 2.7
 
+### CloudwatchLogs event
+
+```
+JST: 0 15 * * ? *
+```
+
 ## Result
 
 ![49977317-3fc0c300-ff89-11e8-8261-24b4c896f8b0](https://user-images.githubusercontent.com/5633085/49983674-7f96a300-ffa7-11e8-994a-56d3178e84ef.png)
