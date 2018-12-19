@@ -12,7 +12,7 @@
 
 - Check all logs to reflect on cloudwatch logs.
 
-Export of logs  
+・Export of logs  
 
  - Audit log
  - Erotic
