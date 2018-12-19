@@ -12,6 +12,20 @@
 
 - Check all logs to reflect on cloudwatch logs.
 
+Export of logs  
+
+ - Audit log
+ - Erotic
+ - General log
+ - Slow Quorig
+
+- Parameter group
+
+ - slow_query_log → 1
+ - general_log → 1
+ - long_query_time → 5
+ - log_output -> FILE
+
 ### AWS/roles
 
 cloudwatchlogs Full Access  
