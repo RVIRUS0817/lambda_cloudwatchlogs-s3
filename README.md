@@ -19,7 +19,7 @@ Export of logs
  - General log
  - Slow Quorig
 
-- Parameter group
+・ Parameter group  
 
  - slow_query_log → 1
  - general_log → 1
