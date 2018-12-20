@@ -63,7 +63,8 @@ cloudwatchlogs Full Access
 
 ### Lambda
 
-Python 2.7
+- Python 2.7
+- timeout 1:30
 
 ### CloudwatchLogs event
 
